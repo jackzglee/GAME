@@ -81,7 +81,7 @@ class Game {
     // 绘制提示文字
     this.context.font = '32px Microsoft YaHei'
     this.context.fillStyle = '#000'
-    this.context.fillText('CXK，你球掉了！得分：' + globalScore, 404, 226)
+    this.context.fillText('老弟，你球掉了！得分：' + globalScore, 404, 226)
 	$("#ballspeedset").removeAttr("disabled");
 	// audio.pause();
 	globalScore = 0;
@@ -98,7 +98,7 @@ class Game {
     // 绘制提示文字
     this.context.font = '32px Microsoft YaHei'
     this.context.fillStyle = '#000'
-    this.context.fillText('CXK，下一关！', 308, 226)
+    this.context.fillText('老弟，下一关！', 308, 226)
 	// audio.pause();
   }
   // 游戏通关
@@ -113,7 +113,7 @@ class Game {
     // 绘制提示文字
     this.context.font = '32px Microsoft YaHei'
     this.context.fillStyle = '#000'
-    this.context.fillText('CXK，通关！总分：' + globalScore, 308, 226)
+    this.context.fillText('老弟，通关！总分：' + globalScore, 308, 226)
 	$("#ballspeedset").removeAttr("disabled");
 	// audio.pause();
 	globalScore = 0;
@@ -128,7 +128,7 @@ class Game {
     // 小球碰撞挡板检测
     if (p.collide(b)) {
       // 当小球运动方向趋向挡板中心时，Y轴速度取反，反之则不变
-      cxk_body = 4;
+      老弟_body = 4;
       if (Math.abs(b.y + b.h/2 - p.y + p.h/2) > Math.abs(b.y + b.h/2 + b.speedY - p.y + p.h/2)) {
         b.speedY *= -1
       } else {

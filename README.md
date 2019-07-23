@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/aoB8Er1.png" align=right />
 
-# 🏀 CXK 打篮球
+# 🏀 老弟 打篮球
 
-本项目是 CXK 打篮球的游戏，原项目：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
+本项目是 老弟 打篮球的游戏，原项目：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
 
-**ReadMe:** [English Version](README_EN.md) | **Demo**：[cxk.ssrr.one](https://cxk.ssrr.one/)
+**ReadMe:** [English Version](README_EN.md) | **Demo**：[老弟.ssrr.one](https://老弟.ssrr.one/)
 
 > 本游戏有一定难度，请 ikun 们不要轻易尝试
 
@@ -27,7 +27,7 @@
 你可以直接玩 demo 或者自行 clone 到本地
 
 ```bash
-git clone https://github.com/kasuganosoras/cxk-ball
+git clone https://github.com/kasuganosoras/老弟-ball
 ```
 
 访问你的站点或者直接浏览器打开 `index.html` 开始玩
@@ -72,9 +72,9 @@ git clone https://github.com/kasuganosoras/cxk-ball
 
 ## 开发者的话
 
-对于 CXK，我的观点是：可以适当地开玩笑和恶搞，但是不应该侮辱，我们应该尊重他人，适可而止。
+对于 老弟，我的观点是：可以适当地开玩笑和恶搞，但是不应该侮辱，我们应该尊重他人，适可而止。
 
-因此你在本游戏中不会看到任何侮辱 CXK 的词汇和言论，同时也请大家不要在 Issues 里发表不文明的内容。
+因此你在本游戏中不会看到任何侮辱 老弟 的词汇和言论，同时也请大家不要在 Issues 里发表不文明的内容。
 
 ## License
 
