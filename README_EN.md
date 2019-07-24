@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/aoB8Er1.png" align=right />
 
-# CXK Play BasketBall
+# brother Play BasketBall
 
-This Project's name is "CXK Play BasketBall" Game，The original Project：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
+This Project's name is "brother Play BasketBall" Game，The original Project：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
 
-**Demo**：[https://cxk.ssrr.one/](https://cxk.ssrr.one/)
+**Demo**：[https://brother.ssrr.one/](https://brother.ssrr.one/)
 
 Finally，If you like this game, please give me a star, thanks!
 
@@ -23,7 +23,7 @@ Wish you have a good game!
 You can play the demo or git clone this project to local
 
 ```bash
-git clone https://github.com/kasuganosoras/cxk-ball
+git clone https://github.com/kasuganosoras/brother-ball
 ```
 
 Browse your Homepage or use Browser opens `index.html` to play.
